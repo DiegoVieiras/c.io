@@ -2,7 +2,6 @@
 
 Tarefar e exercícios do livro C Como Programar!
 
-/home/diego/Pictures/chowtoprogram.jpg
 
 
 
