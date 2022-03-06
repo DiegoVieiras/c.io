@@ -1,4 +1,4 @@
-C How to Program - Exercíses
+C How to Program - Exercises
 
 Tarefar e exercícios do livro C Como Programar!
 
