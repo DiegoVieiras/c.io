@@ -33,7 +33,7 @@ int main(){
         printf("Insira o numero de pontos turisticos dessa nova cidade: ");
         scanf("%d", &n_turist2);
 
-	printf("Carta: 1\n");
+	printf("\nCarta: 1\n");
 	printf("Estado: %c\n", estado1);
 	printf("Código: %s\n", codigo1);
 	printf("Nome da Cidade: %s\n", nome_cidade1);
@@ -42,7 +42,7 @@ int main(){
 	printf("PIB: %.2f bilhões de reais\n", pib1);
 	printf("Número de Pontos Turísticos: %d\n", n_turist1);
 
-	printf("Carta: 2\n");
+	printf("\nCarta: 2\n");
 	printf("Estado: %c\n", estado2);
 	printf("Código: %s\n", codigo2);
 	printf("Nome da Cidade: %s\n", nome_cidade2);
