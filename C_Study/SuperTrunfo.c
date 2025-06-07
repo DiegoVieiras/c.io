@@ -22,6 +22,8 @@ int main(){
 
 	printf("Insira novamente a letra referente ao um novo Estado: ");
         scanf(" %c", &estado2);
+	printf("Insira o código da nova cidade: ");
+        scanf("%s", codigo2);
         printf("Insira novamente o nome de uma nova cidade: ");
         scanf("%s", nome_cidade2);
         printf("Insira a população dessa cidade: ");
